@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**myselfmk061/myselfmk061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Mahendra!
 
-Here are some ideas to get you started:
+### 💻 Software Developer | 🚀 Open Source Enthusiast | 🇮🇳 India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub followers](https://img.shields.io/github/followers/myselfmk061?style=social)](https://github.com/myselfmk061)
+[![GitHub stars](https://img.shields.io/github/stars/myselfmk061?style=social)](https://github.com/myselfmk061)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Mahendra"
+        self.role = "Software Developer"
+        self.location = "India 🇮🇳"
+        self.languages = ["C#", "Python", "JavaScript"]
+        self.interests = ["Desktop Apps", "System Programming", "Open Source"]
+        
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing together!")
+
+me = Developer()
+me.say_hi()
